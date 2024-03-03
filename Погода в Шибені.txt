@@ -1,2 +1,0 @@
-03.02.24 weather is sunny. temperature is 10
-04.02.24 weather is rain. temperature is 12
